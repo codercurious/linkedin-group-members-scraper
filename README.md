@@ -1,5 +1,5 @@
 # Linkedin group members scraper
-Interested in using this scraper? Get it here: [Linkedin group members scraper](https://apify.com/curious_coder/linkedin-group-members-scraper)
+Interested in using this scraper? Get it here: [Linkedin group members scraper](https://apify.com/curious_coder/linkedin-group-members-scraper?fpr=ve081&fp_sid=github_linkedin-group-members-scraper)
 ## How it works
 Scrape members of any linkedin group by providing link to the group. It gives you name, headline, profile url, conenction type etc of group members
 
